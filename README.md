@@ -1,2 +1,2 @@
 # Termux-scripts
-Perform root android tasks not provides by the UI in termux
+Perform root android tasks not provided by the android UI in termux
