@@ -6,7 +6,7 @@ Github search for repos that match a search query and contain apk releases.
 - Perform search in repos started from the more recent ones.
 - Return repos that contain apk releases.
 - Github api limits query matches to 1000 so a max of 1000 matched repos will be checked for apk files.
-- Checks for requirements and imstalls them if mossing.
+- Checks for requirements and installs them if missing.
 - Show progress bar.
 - Replace you github token under # Hardcoded GitHub personal access token
 GITHUB_TOKEN = "your_github_access_token"
