@@ -10,7 +10,6 @@ Github search for repos that match a search query and contain apk releases.
 - Show progress bar.
 - Replace you github token under # Hardcoded GitHub personal access token
 GITHUB_TOKEN = "your_github_access_token"
-- Rate limit is 1000 repos per hour.
 
 - Usage: save the script to file and run python script.py "search_query" 
 
